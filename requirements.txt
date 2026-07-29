@@ -1,6 +1,4 @@
 streamlit
-rembg
+rembg[cpu]
 pillow
 requests
-onnxruntime
-opencv-python-headless
