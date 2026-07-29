@@ -2,3 +2,4 @@ streamlit
 rembg[cpu]
 pillow
 requests
+opencv-python-headless
