@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Maglia Ajax Weghorst",
+        "categoria": "Maglietta / T-Shirt",
+        "stagione": "Tutto l'anno",
+        "immagine": "armadio\\capo_20260728_185830.png"
+    },
+    {
+        "id": "20260728_192400",
+        "nome": "Nuovo Capo",
+        "categoria": "Maglione / Felpa",
+        "stagione": "Inverno",
+        "colore": "Blu / Azzurro",
+        "immagine": "armadio\\capo_20260728_192400.png"
+    }
+]
