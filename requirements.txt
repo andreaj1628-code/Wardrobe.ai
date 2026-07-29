@@ -1,4 +1,6 @@
-streamlit 
+streamlit
 rembg
 pillow
 requests
+onnxruntime
+opencv-python-headless
