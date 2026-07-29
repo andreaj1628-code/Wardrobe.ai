@@ -336,8 +336,8 @@ with tab2:
                     st.caption(
                         f"🎨 **{capo.get('colore', 'N/D')}** | 🗓️ {capo.get('stagione', '')}"
                     )
-
-                    if st.button("🗑️ Elimina", key=f"del_{capo['id']}"):
+                    # Usiamo capo.get('id', i) per evitare il crash se manca l'id
+                    if st.button("🗑️ Elimina", key=f"del_{capo.get('id,idx')}"):
                         elimina_capo(capo["id"], capo["immagine"])
                         st.rerun()
 
